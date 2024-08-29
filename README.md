@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on AI driven mobile image recognition
 - 💬 Ask me about Flutter Mobile Development
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/markwoodkelleher)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 
 
 ![](./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only)
 ![](./profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
